@@ -84,6 +84,9 @@ p{
     font-style: normal;
     z-index: 9;
 }
+#timer{
+    font-size: 30px;
+}
 @media (max-width: 768px) {
     .moon {
         height: 250px;
