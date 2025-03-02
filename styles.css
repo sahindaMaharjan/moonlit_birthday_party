@@ -15,6 +15,10 @@
         opacity: 1;
     }
 }
+#timer{
+    font-size: 50px;
+    text-shadow: 0 0 5px rgb(58, 156, 242)
+}
 .stars, .twinkling, .clouds{
     position: absolute;
     top: 0;
@@ -62,6 +66,7 @@
     font-style: normal;
     z-index: 9;
     width: 40%;
+    text-shadow: 0 0 5px rgb(222, 243, 129);
     display: block;
     opacity: 0;
     animation: appear 3s ease-out forwards;
